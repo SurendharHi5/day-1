@@ -1,0 +1,16 @@
+1.Write a blog on Difference between HTTP1.1 vs HTTP2 ?
+
+HTTP1.1
+
+1.It works on the textual format
+2.It compresses data by itself
+
+HTTP2
+1.It works on the binary protocol
+2.It uses HPACK for data compression
+
+
+2.Write a blog about objects and its internal representation in Javascript
+
+Objects are important data types in javascript. Objects are different than primitive datatypes.
+Data types are number,string,boolean,etc.
